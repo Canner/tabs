@@ -1,5 +1,5 @@
 {
-  "name": "rc-tabs",
+  "name": "@canner/rc-tabs",
   "version": "9.2.4",
   "description": "tabs ui component for react",
   "keywords": [
